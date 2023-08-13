@@ -109,7 +109,6 @@ const getAllReservations = function (guest_id, limit = 10) {
   throw err;
 });
 };
-/// Properties
 
 /**
  * Get all properties.
