@@ -2,9 +2,9 @@
 
 LightBnB is a web application that aims to revolutionize the travel industry by providing a platform for property owners to list their accommodations for rent. Travellers can explore these listings, book and modify reservations, and leave reviews.
 
-!["screenshot of Homepage"]()
-!["screenshot of Createlistings"]()
-!["screenshot of My Reservations page"]()
+!["screenshot of Homepage"](https://github.com/boggulasatya/LightBnB/blob/main/LightBnB_WebApp-master/docs/Homepage.jpg?raw=true)
+!["screenshot of Createlistings"](https://github.com/boggulasatya/LightBnB/blob/main/LightBnB_WebApp-master/docs/CreateListing.jpg?raw=true)
+!["screenshot of My Reservations page"](https://github.com/boggulasatya/LightBnB/blob/main/LightBnB_WebApp-master/docs/My%20Reservations.jpg?raw=true)
 
 ## Project Structure
 
