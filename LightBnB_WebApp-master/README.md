@@ -1,5 +1,11 @@
 # LightBnB
 
+LightBnB is a web application that aims to revolutionize the travel industry by providing a platform for property owners to list their accommodations for rent. Travellers can explore these listings, book and modify reservations, and leave reviews.
+
+!["screenshot of Homepage"]()
+!["screenshot of Createlistings"]()
+!["screenshot of My Reservations page"]()
+
 ## Project Structure
 
 ```
@@ -53,3 +59,33 @@
 * `routes` contains the router files which are responsible for any HTTP requests to `/users/something` or `/api/something`. 
 * `styles` contains all of the sass files. 
 * `server.js` is the entry point to the application. This connects the routes to the database.
+
+## Features
+
+* Search: Easily find accommodations based on your preferences.
+
+* Create Listing: Homeowners can list their properties for rent.
+
+* My Listings: Homeowners can manage and view their listed properties.
+
+* My Reservations: Travelers can keep track of their reservations.
+
+## Dependecies
+
+* bcrypt: Used for securely hashing passwords.
+* cookie-session: Provides cookie-based session management.
+* express: The web application framework.
+* nodemon: Facilitates automatic server restarting during development.
+* pg: Enables PostgreSQL database interaction.
+
+## Getting Started
+
+1. Download the Project: Instead of cloning the project, download the ZIP file using the "Download ZIP" option.
+2. Extract and Move: Extract the downloaded ZIP file and drag the extracted `LightBnB_WebApp` folder into your project directory.
+3. Commit Changes: Commit this change to your version control system.
+4. Navigate to Directory: Navigate to the `LightBnB_WebApp` directory using your command-line interface.
+5. Install Dependencies: Install any required dependencies by running the following command:
+`npm install`
+6. Start the app with following command:
+   `npm run local`
+7. Open your browser and go to `http://localhost:3000` to access LightBnB 
