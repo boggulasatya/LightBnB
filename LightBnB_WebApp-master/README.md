@@ -70,7 +70,7 @@ LightBnB is a web application that aims to revolutionize the travel industry by 
 
 * My Reservations: Travelers can keep track of their reservations.
 
-## Dependecies
+## Dependencies
 
 * bcrypt: Used for securely hashing passwords.
 * cookie-session: Provides cookie-based session management.
